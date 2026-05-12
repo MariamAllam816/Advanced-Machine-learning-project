@@ -1,0 +1,13 @@
+we made 2 codes because main dataset uses only 16 validation and it too small for test validations in training for epoches, accuracy was low for it
+
+we merged datasets and splatted them into  58 validations instead of 16
+
+accuracy became higher
+for test it almost same higher little
+for epoches it be changed more and higher
+
+that is all why there are 2 codes 
+
+(good validation is 5% with 80% training and 15% test)
+the main dataset only 0.2% validation
+
